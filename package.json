@@ -1,0 +1,24 @@
+{
+  "name": "electron-mobile",
+  "version": "0.0.0",
+  "description": "a work in progress iOS/android compatible build target for electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcsapo/electron-mobile.git"
+  },
+  "keywords": [
+    "electron",
+    "mobile",
+    "javascript"
+  ],
+  "author": "Gabriel J. Csapo <gabecsapo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcsapo/electron-mobile/issues"
+  },
+  "homepage": "https://github.com/gabrielcsapo/electron-mobile#readme"
+}
